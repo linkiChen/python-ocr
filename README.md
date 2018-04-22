@@ -7,5 +7,7 @@ Numpy: 1.14.2<br>
 opencv-python: 3.4.0.12<br>
 
 
+生成的图片集地址:https://pan.baidu.com/s/11MbZHaBe1LqdBiA2L1SMHA ndca
+
 运行：<br>
 pycharm: Run->Edit Configurations->选择char-gen->Parameters= --height 30 --margin 4 --rotate 30 --rotate_step 1
